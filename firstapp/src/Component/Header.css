@@ -1,0 +1,20 @@
+header{
+    background-color:#1E90FF;
+}
+
+.usertext{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.input{
+    border:none;
+}

@@ -1,0 +1,10 @@
+.card{
+    width:15rem;
+    background-color: #1E90FF;
+    box-shadow: 8px 8px 8px gray;
+    color: white;
+}
+
+.card-img-top{
+    width:10rem;
+}
